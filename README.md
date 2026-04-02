@@ -1,4 +1,4 @@
-Using historical attack data, the project "**Detection of Cyber Attacks in Networking Using Machine Learning Techniques**"   aims to identify and mitigate cyber risks. Through the use of an established dataset of prior attacks from previous years, the project seeks to develop a strong machine learning model capable of identifying vulnerabilities in websites, applications, and networks.
+ Using historical attack data, the project "**Detection of Cyber Attacks in Networking Using Machine Learning Techniques**"   aims to identify and mitigate cyber risks. Through the use of an established dataset of prior attacks from previous years, the project seeks to develop a strong machine learning model capable of identifying vulnerabilities in websites, applications, and networks.
 
 # Crucial Elements:
 Data Usage: To gain insight into the patterns and traits of these incidents, the project makes use of a large dataset that records different cyberattacks. The training and validation of machine learning algorithms are based on this historical data.
@@ -8,7 +8,7 @@ Machine Learning Techniques: The dataset is analyzed by the project using a vari
 # Technology Stack:
 
 # Python: 
-Used for machine learning method implementation, data processing, and model training.
+Used for machine learning method implementation, data processing, and model training these would be helpful
 A user-friendly web interface that shows the findings and visualizations of the attack detection process is developed using HTML, CSS, and JavaScript.
 # MySQL:
 Used to store and manage the historical attack data, allowing for quick and easy data manipulation and retrieval.
